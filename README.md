@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaydate
-- 👀 I’m interested in ...TECHNOLOGY
-- 🌱 I’m currently learning ...MCA
+- 👀 I’m interested in ...Frontend wed designing 
+- 🌱 I’m currently pursuing...MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
